@@ -18,3 +18,11 @@
 6.source tag <sources src="">
 7.width attributes width=""
 8.height attributes heigth=""
+9 horizontial line <hr>
+10.break </br>
+11.Audio tag <audio controls> </audio>
+12.label tag <label> </label>
+13.attributes type="" (text,number,date,email)
+14.attributes placeholder=""
+15.input tag <input>
+
