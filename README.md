@@ -25,4 +25,7 @@
 13.attributes type="" (text,number,date,email)
 14.attributes placeholder=""
 15.input tag <input>
+16.button tag <button></button>
+17.select tag <select></select>
+18.option tag <option></option>
 
