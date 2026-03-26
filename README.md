@@ -29,3 +29,12 @@
 17.select tag <select></select>
 18.option tag <option></option>
 
+26-03-2026
+1.table header tag <th></th>
+2.table row tag <tr></tr>
+3.table data tag <td></td>
+4..Order list tag <ol> </ol>
+5.type attribute type="" (roman numbes,A,a,1)
+6.list item tag <li></li>
+7.unorder list tag <ul></ul>
+8. type attribute type="" (round,square)
