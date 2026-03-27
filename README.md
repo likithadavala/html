@@ -38,3 +38,30 @@
 6.list item tag <li></li>
 7.unorder list tag <ul></ul>
 8. type attribute type="" (round,square)
+
+27-03-2026
+1. type attribute type="" (ratio,checkbox)
+2. delete tag <del></del>
+3. sub tag <sub></sub>
+4. super tag <sup></sup>
+5. bold tag <b></b>
+6. italic tag <i></i>
+7. emphasized text tag <em></em>
+8. inserted text tag <ins></ins>
+9. strong tag <strong></strong>
+10. mark tag <mark></mark>
+11. smaller tag <small></small>
+12. header tag <header></header>
+13. address tag <address></address>
+14. code tag <code></code>
+15. selection tag<selection></selection>
+16. footer tag <footer></footer>
+17. per define tag <pre></pre>
+18. script tag <script></script>
+19. span tag <span></span>
+20. style tag <style></style>
+21. navigation tag <nag></nag>
+
+
+
+2.
