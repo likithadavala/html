@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Fest-Registration</title>
+    <script>
+        function SubmitEvent() {
+            alert("your registration is successful");
+        }   
+    </script>
+   <link rel="stylesheet" href="style.css"> 
+</head>
+
+<body
+    <form style="background-color: rgb(161, 99, 161); text-align: center;
+    width: 400px;
+    height: 346px;">
+        <h1 style="color:red; background-color: aquamarine">Fest Registration Form</h1>
+        <label>full name</label>
+        <input type="text" placeholder="enter your full name" style="color: beige;
+    background-color:red;"></br>
+        <label>roll number</label>
+        <input type="text" placeholder="enter your roll number" style="color:beige;
+    background-color: red;"></br>
+        <label>phone</label>
+        <input type="number" placeholder="enter your phone number"></br>
+
+
+        <label>gender</label></br>
+        <input type="radio" name="gender">male</br>
+        <input type="radio" name="gender">female</br>
+        <input type="radio" name="gender">others</br>
+
+
+        <label class="sbranch">branch</label></br>
+        <select>
+            <option>cse</option>
+            <option>ece</option>
+            <option>mech</option>
+            <option>civil</option>
+            <option>eee</option>
+        </select></br>
+        <label class="sevents">select the events</label></br>
+        <input type="checkbox" name="events">singing</br>
+        <input type="checkbox" name="events">dancing </br>
+        <input type="checkbox" name="events">acting</br>
+        <input type="checkbox" name="events">painting</br>
+
+
+        <button onclick="SubmitEvent()">submit</button>
+    </form>
+</body>
+
+</html>
